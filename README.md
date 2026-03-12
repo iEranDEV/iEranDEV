@@ -25,7 +25,7 @@ I am transitioning from a Frontend background, where I worked extensively with R
 
 ### 🚀 Featured Projects
 
-* **[Loldle Data](https://github.com/YourUsername/loldle-data)** 
+* **[Loldle Data](https://github.com/iEranDEV/loldle-data)** 
   *A Kotlin-based utility using Ktor and Skrape{it} to fetch, aggregate, and export League of Legends champion data into optimized JSON.*
 
 <div align="center">
