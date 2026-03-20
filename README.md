@@ -25,6 +25,8 @@ I am transitioning from a Frontend background, where I worked extensively with R
 
 ### 🚀 Featured Projects
 
+* **[LoL Tracker API](https://github.com/iEranDEV/lol-tracker-backend)** 
+  *Kotlin + Spring Boot REST API backend for tracking player's matches, proxying and caching Riot Games API data with MongoDB.*
 * **[Loldle Data](https://github.com/iEranDEV/loldle-data)** 
   *A Kotlin-based utility using Ktor and Skrape{it} to fetch, aggregate, and export League of Legends champion data into optimized JSON.*
 
