@@ -25,6 +25,8 @@ I am transitioning from a Frontend background, where I worked extensively with R
 
 ### 🚀 Featured Projects
 
+* **[Time Tracker](https://github.com/iEranDEV/time-tracker)** 
+  *A minimalistic Android time tracking app built with Kotlin and Jetpack Compose. Log activities with a stopwatch, organize entries by categories, and browse history by day.*
 * **[LoL Tracker API](https://github.com/iEranDEV/lol-tracker-backend)** 
   *Kotlin + Spring Boot REST API backend for tracking player's matches, proxying and caching Riot Games API data with MongoDB.*
 * **[Loldle Data](https://github.com/iEranDEV/loldle-data)** 
